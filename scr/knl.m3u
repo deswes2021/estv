@@ -20,30 +20,3 @@
 #EXTINF: nombre="canal 12" tipo="nacionales" logo="canal12" url="canal12"
 #EXTINF: nombre="canal 19" tipo="nacionales" logo="canal19" url="canal19"
 #EXTINF: nombre="canal 21" tipo="nacionales" logo="canal21" url="canal21"
-
-#EXTMOVIEWARS
-#EXTINF: nombre="00000" tipo="moviewars" logo="000000" url="000000"
-
-#EXTMOVIEOESTE
-#EXTINF: nombre="00000" tipo="movieoeste" logo="000000" url="000000"
-
-#EXTMOVIEFICTION
-#EXTINF: nombre="00000" tipo="moviefiction" logo="000000" url="000000"
-
-#EXTMOVIEFANTASY
-#EXTINF: nombre="00000" tipo="moviefantasy" logo="000000" url="000000"
-
-#EXTMOVIEHORROR
-#EXTINF: nombre="00000" tipo="moviehorror" logo="000000" url="000000"
-
-#EXTMOVIECOMEDY
-#EXTINF: nombre="00000" tipo="moviecomedy" logo="000000" url="000000"
-
-#EXTMOVIEANIME
-#EXTINF: nombre="00000" tipo="movieanime" logo="000000" url="000000"
-
-#EXTMOVIEFAMILY
-#EXTINF: nombre="00000" tipo="moviefamily" logo="000000" url="000000"
-
-#EXTMOVIEROMANCE
-#EXTINF: nombre="00000" tipo="movieromance" logo="000000" url="000000"
