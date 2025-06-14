@@ -1,0 +1,28 @@
+#EXTM3U
+
+#EXTSERIESWARS
+#EXTINF: nombre="00000" tipo="serieswars" logo="000000" url="000000"
+
+#EXTSERIESOESTE
+#EXTINF: nombre="00000" tipo="seriesoeste" logo="000000" url="000000"
+
+#EXTSERIESFICCION
+#EXTINF: nombre="00000" tipo="seriesficcion" logo="000000" url="000000"
+
+#EXTSERIESFANTASY
+#EXTINF: nombre="00000" tipo="seriesfantasy" logo="000000" url="000000"
+
+#EXTSERIESAVENTURA
+#EXTINF: nombre="00000" tipo="seriesaventura" logo="000000" url="000000"
+
+#EXTSERIESCOMEDY
+#EXTINF: nombre="00000" tipo="seriescomedy" logo="000000" url="000000"
+
+#EXTSERIESANIME
+#EXTINF: nombre="00000" tipo="seriesanime" logo="000000" url="000000"
+
+#EXTSERIESFAMILY
+#EXTINF: nombre="00000" tipo="seriesfamily" logo="000000" url="000000"
+
+#EXTSERIESDRAMA
+#EXTINF: nombre="00000" tipo="seriesdrama" logo="000000" url="000000"
