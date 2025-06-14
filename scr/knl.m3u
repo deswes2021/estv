@@ -1,0 +1,49 @@
+#EXTM3U
+
+#EXTOPCIONES
+#EXTINF: nombre="actualizar" tipo="opciones" logo="opciones" url="/actualizar"
+#EXTINF: nombre="activar" tipo="opciones" logo="activar" url="https://tv.teleclub.xyz/activar"
+#EXTINF: nombre="Borrar Cache" tipo="opciones" logo="borrakche" url="/borrakche"
+
+#EXTNACIONALES
+#EXTINF: nombre="canal 1" tipo="nacionales" logo="canal1" url="canal1"
+#EXTINF: nombre="canal 2" tipo="nacionales" logo="canal2" url="canal2"
+#EXTINF: nombre="canal 3" tipo="nacionales" logo="canal3" url="canal3"
+#EXTINF: nombre="canal 4" tipo="nacionales" logo="canal4" url="canal4"
+#EXTINF: nombre="canal 5" tipo="nacionales" logo="canal5" url="canal5"
+#EXTINF: nombre="canal 6" tipo="nacionales" logo="canal6" url="canal6"
+#EXTINF: nombre="canal 7" tipo="nacionales" logo="canal7" url="canal7"
+#EXTINF: nombre="canal 8" tipo="nacionales" logo="canal8" url="canal8"
+#EXTINF: nombre="canal 9" tipo="nacionales" logo="canal9" url="canal9"
+#EXTINF: nombre="canal 10" tipo="nacionales" logo="canal10" url="canal10"
+#EXTINF: nombre="canal 11" tipo="nacionales" logo="canal11" url="canal11"
+#EXTINF: nombre="canal 12" tipo="nacionales" logo="canal12" url="canal12"
+#EXTINF: nombre="canal 19" tipo="nacionales" logo="canal19" url="canal19"
+#EXTINF: nombre="canal 21" tipo="nacionales" logo="canal21" url="canal21"
+
+#EXTMOVIEWARS
+#EXTINF: nombre="00000" tipo="moviewars" logo="000000" url="000000"
+
+#EXTMOVIEOESTE
+#EXTINF: nombre="00000" tipo="movieoeste" logo="000000" url="000000"
+
+#EXTMOVIEFICTION
+#EXTINF: nombre="00000" tipo="moviefiction" logo="000000" url="000000"
+
+#EXTMOVIEFANTASY
+#EXTINF: nombre="00000" tipo="moviefantasy" logo="000000" url="000000"
+
+#EXTMOVIEHORROR
+#EXTINF: nombre="00000" tipo="moviehorror" logo="000000" url="000000"
+
+#EXTMOVIECOMEDY
+#EXTINF: nombre="00000" tipo="moviecomedy" logo="000000" url="000000"
+
+#EXTMOVIEANIME
+#EXTINF: nombre="00000" tipo="movieanime" logo="000000" url="000000"
+
+#EXTMOVIEFAMILY
+#EXTINF: nombre="00000" tipo="moviefamily" logo="000000" url="000000"
+
+#EXTMOVIEROMANCE
+#EXTINF: nombre="00000" tipo="movieromance" logo="000000" url="000000"
