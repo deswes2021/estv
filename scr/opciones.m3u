@@ -1,4 +1,4 @@
 #EXTM3U
 #EXTINF: nombre="actualizar" tipo="opciones" logo="actualizar" url="/actualizar"
-#EXTINF: nombre="activar" tipo="opciones" logo="activar" url="https://tv.teleclub.xyz/activar"
+#EXTINF: nombre="listas m3u" tipo="opciones" logo="listasm3u" url="/listasm3u"
 #EXTINF: nombre="Borrar Cache" tipo="opciones" logo="borrakche" url="/borrakche"
