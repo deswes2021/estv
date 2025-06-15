@@ -1,32 +1,6 @@
-[
-    {
-        nombre:'opciones',
-        tipo:'menu',
-        logo:'https://raw.githubusercontent.com/deswes2021/estv/main/img/opciones.jpg',
-        url:'https://raw.githubusercontent.com/deswes2021/estv/main/scr/opciones.m3u'
-    },
-    {
-        nombre:'nacionales',
-        tipo:'menu',
-        logo:'https://raw.githubusercontent.com/deswes2021/estv/main/img/nacionales.jpg',
-        url:'https://raw.githubusercontent.com/deswes2021/estv/main/scr/nacionales.m3u'
-    },
-    {
-        nombre:'listas m3u',
-        tipo:'menu',
-        logo:'https://raw.githubusercontent.com/deswes2021/estv/main/img/listasm3u.jpg',
-        url:'https://raw.githubusercontent.com/deswes2021/estv/main/scr/listasm3u.m3u'
-    },    
-    {
-        nombre:'peliculas',
-        tipo:'menu',
-        logo:'https://raw.githubusercontent.com/deswes2021/estv/main/img/peliculas.jpg',
-        url:'https://raw.githubusercontent.com/deswes2021/estv/main/scr/peliculas.m3u'
-    },
-    {
-        nombre:'series',
-        tipo:'menu',
-        logo:'https://raw.githubusercontent.com/deswes2021/estv/main/img/series.jpg',
-        url:'https://raw.githubusercontent.com/deswes2021/estv/main/scr/series.m3u'
-    }
-]
+#EXTM3U
+#EXTINF: nombre="opciones" tipo="menu" logo="opciones" url:"opciones"
+#EXTINF: nombre="nacionales" tipo="menu" logo="nacionales" url:"nacionales"
+#EXTINF: nombre="listas m3u" tipo="menu" logo="listasm3u" url:"listasm3u"
+#EXTINF: nombre="peliculas" tipo="menu" logo="peliculas" url:"peliculas"
+#EXTINF: nombre="series" tipo="menu" logo="series" url:"series"
