@@ -23,3 +23,6 @@
 
 #EXT247
 #EXTINF: nombre="24x7" tipo="24X7" logo="24x7" url="0000000"
+
+#EXTDOCUMENTAL
+#EXTINF: nombre="documental" tipo="documental" logo="documental" url="0000000"
