@@ -13,4 +13,3 @@
 #EXTINF: tipo="nacionales" logo="tvnaccanal12", nombre="canal 12" url="https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8"
 #EXTINF: tipo="nacionales" logo="tvnaccanal19", nombre="canal 19" url="https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8"
 #EXTINF: tipo="nacionales" logo="tvnaccanal21", nombre="canal 21" url="https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8"
-#EXTINF: tipo="nacionales" logo="tvnaccanal22", nombre="canal 22" url="http://201.247.102.189/tmp_hls/stream/index.m3u8"
