@@ -21,8 +21,8 @@
 #EXTINF: nombre="canal 19" tipo="nacionales" logo="tvnaccanal19" url="canal19"
 #EXTINF: nombre="canal 21" tipo="nacionales" logo="tvnaccanal21" url="canal21"
 
-#EXT247
-#EXTINF: nombre="24x7" tipo="247" logo="247" url="0000000"
+#EXTH247
+#EXTINF: nombre="24x7" tipo="h247" logo="h247" url="0000000"
 
 #EXTDOCUMENTAL
 #EXTINF: nombre="documental" tipo="documental" logo="documental" url="0000000"
