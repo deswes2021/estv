@@ -189,7 +189,7 @@ http://tv.teleclub.xyz/stream/server_3/entretenimiento/HBO/master.m3u8
 http://tv.teleclub.xyz/stream/server_3/entretenimiento/hbo2/master.m3u8
 #EXTINF:-1 tvg-id="hbo_family_3" tvg-logo="hbofamily" group-title="Entretenimiento", HBO Family
 http://tv.teleclub.xyz/stream/server_3/entretenimiento/hbo_family/master.m3u8
-#EXTINF:-1 tvg-id="hbosignature_3" tvg-logo="" group-title="Entretenimiento", HBO Signature
+#EXTINF:-1 tvg-id="hbosignature_3" tvg-logo="hbosignature" group-title="Entretenimiento", HBO Signature
 http://tv.teleclub.xyz/stream/server_3/entretenimiento/hbosignature/master.m3u8
 #EXTINF:-1 tvg-id="hboxtreme_3" tvg-logo="hboxtreme" group-title="Entretenimiento", HBO Xtreme
 http://tv.teleclub.xyz/stream/server_3/entretenimiento/hboxtreme/master.m3u8
