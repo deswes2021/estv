@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF: nombre="actualizar" tipo="opciones" logo="opciones" url="/actualizar"
+#EXTINF: nombre="activar" tipo="opciones" logo="activar" url="https://tv.teleclub.xyz/activar"
+#EXTINF: nombre="Borrar Cache" tipo="opciones" logo="borrakche" url="/borrakche"
