@@ -1,25 +1,25 @@
 #EXTM3U
 
 #EXTSERIESWARS
-#EXTINF: nombre="00000" tipo="serieswars" logo="000000" url="000000"
+#EXTINF: nombre="00000" tipo="serieswars" logo="000000" url=""
 
 #EXTSERIESOESTE
-#EXTINF: nombre="00000" tipo="seriesoeste" logo="000000" url="000000"
+#EXTINF: nombre="00000" tipo="seriesoeste" logo="000000" url=""
 
 #EXTSERIESFICCION
-#EXTINF: nombre="00000" tipo="seriesficcion" logo="000000" url="000000"
+#EXTINF: nombre="00000" tipo="seriesficcion" logo="000000" url=""
 
 #EXTSERIESFANTASY
-#EXTINF: nombre="00000" tipo="seriesfantasy" logo="000000" url="000000"
+#EXTINF: nombre="00000" tipo="seriesfantasy" logo="000000" url=""
 
 #EXTSERIESCOMEDY
-#EXTINF: nombre="00000" tipo="seriescomedy" logo="000000" url="000000"
+#EXTINF: nombre="00000" tipo="seriescomedy" logo="000000" url=""
 
 #EXTSERIESANIME
-#EXTINF: nombre="00000" tipo="seriesanime" logo="000000" url="000000"
+#EXTINF: nombre="00000" tipo="seriesanime" logo="000000" url=""
 
 #EXTSERIESFAMILY
-#EXTINF: nombre="00000" tipo="seriesfamily" logo="000000" url="000000"
+#EXTINF: nombre="00000" tipo="seriesfamily" logo="000000" url=""
 
 #EXTSERIESDRAMA
-#EXTINF: nombre="00000" tipo="seriesdrama" logo="000000" url="000000"
+#EXTINF: nombre="00000" tipo="seriesdrama" logo="000000" url=""
