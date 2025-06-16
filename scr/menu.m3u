@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF: nombre="nacionales" tipo="menu" logo="nacionales" url="nacionales.m3u"
-#EXTINF: nombre="teleclub" tipo="menu" logo="teleclub" url="teleclub.m3u"
 #EXTINF: nombre="peliculas" tipo="menu" logo="peliculas" url="peliculas.m3u"
 #EXTINF: nombre="series" tipo="menu" logo="series" url="series.m3u"
+#EXTINF: nombre="teleclub" tipo="menu" logo="teleclub" url="teleclub.m3u"
