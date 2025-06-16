@@ -4,3 +4,4 @@
 #EXTINF: nombre="series" tipo="menu" logo="series" url="series.m3u"
 #EXTINF: nombre="teleclub" tipo="menu" logo="teleclub" url="teleclub.m3u"
 #EXTINF: nombre="mexico" tipo="menu" logo="mx" url="mx.m3u"
+#EXTINF: nombre="iptv" tipo="menu" logo="iptv" url="iptv.m3u"
