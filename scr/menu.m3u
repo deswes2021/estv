@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF: nombre="opciones" tipo="menu" logo="opciones" url="opciones"
 #EXTINF: nombre="nacionales" tipo="menu" logo="nacionales" url="nacionales"
 #EXTINF: nombre="peliculas" tipo="menu" logo="peliculas" url="peliculas"
 #EXTINF: nombre="series" tipo="menu" logo="series" url="series"
