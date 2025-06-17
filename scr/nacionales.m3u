@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF: tipo="menu" logo="menu", nombre="menu" url="./index.html"
 #EXTINF: tipo="nacionales" logo="tvnaccanal1", nombre="tcs +" url="https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8"
 #EXTINF: tipo="nacionales" logo="tvnaccanal2", nombre="canal 2" url="https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/d3e259fa-736d-46b0-b1c9-71caf946ace9.m3u8"
 #EXTINF: tipo="nacionales" logo="tvnaccanal3", nombre="canal 3" url="https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8"
