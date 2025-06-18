@@ -1,5 +1,16 @@
 #EXTM3U
 
+#EXTLST: Menu Canales
+#EXTINF: nombre="opciones" tipo="menu" logo="opciones" url="/opciones"
+#EXTINF: nombre="nacional" tipo="menu" logo="nacional" url="/nacional"
+#EXTINF: nombre="infantil" tipo="menu" logo="infantil" url="/infantil"
+#EXTINF: nombre="mundo" tipo="menu" logo="mundo" url="/mundo"
+#EXTINF: nombre="cultura" tipo="menu" logo="cultura" url="/cultura"
+#EXTINF: nombre="cinema" tipo="menu" logo="cinema" url="/cinema"
+#EXTINF: nombre="deportes" tipo="menu" logo="deportes" url="/deportes"
+#EXTINF: nombre="musica" tipo="menu" logo="musica" url="/musica"
+#EXTINF: nombre="adulto" tipo="menu" logo="adulto" url="/adulto"
+
 #EXTLST: Canales Opciones
 #EXTINF: nombre="actualizar" tipo="opciones" logo="actualizar" url="/actualizar?.m3u8"
 #EXTINF: nombre="activar" tipo="opciones" logo="opciones" url="https://tv.teleclub.xyz/activar?.m3u8"
