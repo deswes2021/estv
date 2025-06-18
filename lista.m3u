@@ -13,7 +13,7 @@
 
 #EXTLST: Canales Opciones
 #EXTINF: nombre="actualizar" tipo="opciones" logo="./img/actualizar.jpg" url="actualizar"
-#EXTINF: nombre="activar" tipo="opciones" logo="./img/activar.jpg" url="https://tv.teleclub.xyz/activar"
+#EXTINF: nombre="activar" tipo="opciones" logo="./img/activar.jpg" url="activar"
 #EXTINF: nombre="borrar cache" tipo="opciones" logo="./img/borrakche.jpg" url="borrakche"
 
 #EXTLST: Canales Nacionales
