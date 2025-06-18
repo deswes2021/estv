@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF: nombre="nacional" tipo="Opciones" logo="https://raw.githubusercontent.com/deswes2021/estv/main/lst/img/nacional.jpg" url="nacional"
-#EXTINF: nombre="teleclub" tipo="Opciones" logo="https://raw.githubusercontent.com/deswes2021/estv/main/lst/img/teleclub.jpg" url="teleclub"
+#EXTINF: nombre="nacional" tipo="Opciones" logo="https://raw.githubusercontent.com/deswes2021/estv/main/lst/img/nacional/nacional.jpg" url="nacional"
+#EXTINF: nombre="teleclub" tipo="Opciones" logo="https://raw.githubusercontent.com/deswes2021/estv/main/lst/img/teleclub/teleclub.jpg" url="teleclub"
