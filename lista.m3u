@@ -33,19 +33,63 @@
 #EXTINF: nombre="canal 21" tipo="nacional" logo="./img/tvnaccanal21.jpg" url="0000000000000"
 
 #EXTLST: Canales Infantiles
-#EXTINF: nombre="" tipo="" logo="" url=""
+#EXTINF: nombre="" tipo="infantil" logo="" url=""
+
+#EXTLST: Canales Infantiles
+#EXTINF: nombre="" tipo="infantil" logo="" url=""
 
 #EXTLST: Canales Cultura
-#EXTINF: nombre="" tipo="" logo="" url=""
+#EXTINF: nombre="" tipo="cultura" logo="" url=""
 
 #EXTLST: Canales Mundo
-#EXTINF: nombre="" tipo="" logo="" url=""
+#EXTINF: nombre="" tipo="mundo" logo="" url=""
 
 #EXTLST: Canales Entretenimiento
-#EXTINF: nombre="" tipo="" logo="" url=""
+#EXTINF: nombre="" tipo="entretenimiento" logo="" url=""
 
 #EXTLST: Canales Deportes
-#EXTINF: nombre="" tipo="" logo="" url=""
+#EXTINF: nombre="" tipo="deportes" logo="" url=""
 
 #EXTLST: Canales Musica
-#EXTINF: nombre="" tipo="" logo="" url=""
+#EXTINF: nombre="" tipo="musica" logo="" url=""
+
+
+#EXTLST: Canales Peliculas
+#EXTINF: nombre="ytbficcion" tipo="peliculas" logo="./img/ytbficcion.jpg" url="ytbficcion"
+#EXTINF: nombre="ytbfantasia" tipo="peliculas" logo="./img/ytbfantasia.jpg" url="ytbfantasia"
+#EXTINF: nombre="ytbhorror" tipo="peliculas" logo="./img/ytbhorror.jpg" url="ytbhorror"
+#EXTINF: nombre="ytbaccion" tipo="peliculas" logo="./img/ytbaccion.jpg" url="ytbaccion"
+#EXTINF: nombre="ytbanime" tipo="peliculas" logo="./img/ytbanime.jpg" url="ytbanime"
+#EXTINF: nombre="ytbfamiliar" tipo="peliculas" logo="./img/ytbfamiliar.jpg" url="ytbfamiliar"
+#EXTINF: nombre="ytbamor" tipo="peliculas" logo="./img/ytbamor.jpg" url="ytbamor"
+#EXTINF: nombre="ytbdrama" tipo="peliculas" logo="./img/ytbdrama.jpg" url="ytbdrama"
+#EXTINF: nombre="ytbmusical" tipo="peliculas" logo="./img/ytbmusical.jpg" url="ytbmusical"
+
+#EXTLST: Canales Peliculas ytbficcion
+#EXTINF: nombre="" tipo="ytbficcion" logo="" url=""
+
+#EXTLST: Canales Peliculas ytbfantasia
+#EXTINF: nombre="" tipo="ytbfantasia" logo="" url=""
+
+#EXTLST: Canales Peliculas ytbhorror
+#EXTINF: nombre="" tipo="ytbhorror" logo="" url=""
+
+#EXTLST: Canales Peliculas ytbaccion
+#EXTINF: nombre="" tipo="ytbaccion" logo="" url=""
+
+#EXTLST: Canales Peliculas ytbanime
+#EXTINF: nombre="" tipo="ytbanime" logo="" url=""
+
+#EXTLST: Canales Peliculas ytbfamiliar
+#EXTINF: nombre="" tipo="ytbfamiliar" logo="" url=""
+
+#EXTLST: Canales Peliculas ytbamor
+#EXTINF: nombre="" tipo="ytbamor" logo="" url=""
+
+#EXTLST: Canales Peliculas ytbdrama
+#EXTINF: nombre="" tipo="ytbdrama" logo="" url=""
+
+#EXTLST: Canales Peliculas ytbmusical
+#EXTINF: nombre="" tipo="ytbmusical" logo="" url=""
+
+#EXTLST: Canales Teleclub
