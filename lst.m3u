@@ -1,39 +1,12 @@
 #EXTM3U
 
 #EXTOPT:
-#EXTOPT: MENUS
-#EXTOPT:
-
-#EXTINF: nombre="Opciones" tipo="Menu" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/Opciones.jpg" url="Opciones" 
-#EXTINF: nombre="Nacionales" tipo="Menu" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/Nacionales.jpg" url="Nacionales" 
-#EXTINF: nombre="Infantiles" tipo="Menu" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/Infantiles.jpg" url="Infantiles" 
-#EXTINF: nombre="Cultura" tipo="Menu" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/Cultura.jpg" url="Cultura" 
-#EXTINF: nombre="Mundo" tipo="Menu" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/Mundo.jpg" url="Mundo" 
-#EXTINF: nombre="Cinemas" tipo="Menu" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/Cinemas.jpg" url="Cinemas" 
-#EXTINF: nombre="24x7" tipo="Menu" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/24x7.jpg" url="24x7" 
-#EXTINF: nombre="Deportes" tipo="Menu" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/Deportes.jpg" url="Deportes" 
-#EXTINF: nombre="Musica" tipo="Menu" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/Musica.jpg" url="Musica" 
-#EXTINF: nombre="YTBOeste" tipo="Menu" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/YTBOeste.jpg" url="YTBOeste" 
-#EXTINF: nombre="YTBWars" tipo="Menu" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/YTBWars.jpg" url="YTBWars" 
-#EXTINF: nombre="YTBDocumental" tipo="Menu" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/YTBDocumental.jpg" url="YTBDocumental" 
-#EXTINF: nombre="YTBFantasy" tipo="Menu" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/YTBFantasy.jpg" url="YTBFantasy" 
-#EXTINF: nombre="YTBFiction" tipo="Menu" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/YTBFiction.jpg" url="YTBFiction" 
-#EXTINF: nombre="YTBHorror" tipo="Menu" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/YTBHorror.jpg" url="YTBHorror" 
-#EXTINF: nombre="YTBAnime" tipo="Menu" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/YTBAnime.jpg" url="YTBAnime" 
-#EXTINF: nombre="YTBFamily" tipo="Menu" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/YTBFamily.jpg" url="YTBFamily" 
-#EXTINF: nombre="YTBComedy" tipo="Menu" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/YTBComedy.jpg" url="YTBComedy" 
-#EXTINF: nombre="YTBDrama" tipo="Menu" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/YTBDrama.jpg" url="YTBDrama" 
-#EXTINF: nombre="YTBMusical" tipo="Menu" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/YTBMusical.jpg" url="YTBMusical" 
-#EXTINF: nombre="Series" tipo="Menu" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/Series.jpg" url="Series" 
-
-
-#EXTOPT:
 #EXTOPT: OPCIONES
 #EXTOPT:
     
 #EXTINF: nombre="Activar" tipo="Opciones" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/activar.jpg" url="https://tv.teleclub.xyz/activar" 
-#EXTINF: nombre="Actualizar" tipo="Opciones" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/actualizar.jpg" url="/actualizar" 
-#EXTINF: nombre="Cambialista" tipo="Opciones" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/cambialista.jpg" url="/cambialista" 
+#EXTINF: nombre="Actualizar" tipo="Opciones" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/actualizar.jpg" url="actualizar" 
+#EXTINF: nombre="Cambialista" tipo="Opciones" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/cambialista.jpg" url="borrakche" 
 
 #EXTOPT:
 #EXTOPT: NACIONALES
