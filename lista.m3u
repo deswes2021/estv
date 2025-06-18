@@ -12,9 +12,9 @@
 #EXTINF: nombre="musica" tipo="menu" logo="./img/musica.jpg" url="/musica"
 
 #EXTLST: Canales Opciones
-#EXTINF: nombre="actualizar" tipo="opciones" logo="actualizar" url="/actualizar?.m3u8"
-#EXTINF: nombre="activar" tipo="opciones" logo="opciones" url="https://tv.teleclub.xyz/activar?.m3u8"
-#EXTINF: nombre="borra kche" tipo="opciones" logo="borrakche" url="/borrakche?.m3u8"
+#EXTINF: nombre="actualizar" tipo="opciones" logo="./img/actualizar.jpg" url="/actualizar"
+#EXTINF: nombre="activar" tipo="opciones" logo="./img/activar.jpg" url="https://tv.teleclub.xyz/activar"
+#EXTINF: nombre="borrar cache" tipo="opciones" logo="./img/borrakche.jpg" url="/borrakche"
 
 #EXTLST: Canales Nacionales
 #EXTINF: nombre="canal 1" tipo="nacional" logo="./img/tvnaccanal1.jpg" url="0000000000000"
