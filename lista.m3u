@@ -6,7 +6,7 @@
 #EXTINF: nombre="infantil" tipo="menu" logo="./img/infantil.jpg" url="/infantil"
 #EXTINF: nombre="mundo" tipo="menu" logo="./img/mundo.jpg" url="/mundo"
 #EXTINF: nombre="cultura" tipo="menu" logo="./img/cultura.jpg" url="/cultura"
-#EXTINF: nombre="cinema" tipo="menu" logo="./img/cinema.jpg" url="/cinema"
+#EXTINF: nombre="entretenimiento" tipo="menu" logo="./img/entretenimiento.jpg" url="/entretenimiento"
 #EXTINF: nombre="deportes" tipo="menu" logo="./img/deportes.jpg" url="/deportes"
 #EXTINF: nombre="musica" tipo="menu" logo="./img/musica.jpg" url="/musica"
 #EXTINF: nombre="adulto" tipo="menu" logo="./img/adulto.jpg" url="/adulto"
