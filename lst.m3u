@@ -4,6 +4,14 @@
 #EXTOPT: NACIONALES
 #EXTOPT:
 
+#EXTINF: nombre="actualizar" tipo="opciones" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/actualizar.jpg" url="actualizar" 
+#EXTINF: nombre="activar teleclub" tipo="opciones" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/activar.jpg" url="activar" 
+#EXTINF: nombre="killcache" tipo="opciones" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/killcache.jpg" url="killcache" 
+
+#EXTOPT:
+#EXTOPT: NACIONALES
+#EXTOPT:
+
 #EXTINF: nombre="TCS +" tipo="Nacionales" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/tcs.jpg" url="https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8" 
 #EXTINF: nombre="Canal 2" tipo="Nacionales" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/canal2.jpg" url="https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/d3e259fa-736d-46b0-b1c9-71caf946ace9.m3u8" 
 #EXTINF: nombre="Canal 3" tipo="Nacionales" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/canal3.jpg" url="https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8" 
