@@ -4,9 +4,9 @@
 #EXTOPT: MENUS
 #EXTOPT:
 
-#EXTINF: nombre="opciones" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/estv/main/img/Nacionales.jpg" url="opciones" 
+#EXTINF: nombre="opciones" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/estv/main/img/opciones.jpg" url="opciones" 
 #EXTINF: nombre="nacionales" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/estv/main/img/nacionales.jpg" url="nacionales"
-#EXTINF: nombre="infantiles" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/estv/main/img/infantiles.jpg" url="infantiles"
+#EXTINF: nombre="infantil" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/estv/main/img/infantil.jpg" url="infantil"
 #EXTINF: nombre="mundo" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/estv/main/img/mundo.jpg" url="mundo"
 #EXTINF: nombre="cultura" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/estv/main/img/cultura.jpg" url="cultura"
 #EXTINF: nombre="entretenimiento" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/estv/main/img/entretenimiento.jpg" url="entretenimiento"
