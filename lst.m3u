@@ -6,7 +6,7 @@
 
 #EXTINF: nombre="opciones" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/Nacionales.jpg" url="opciones" 
 #EXTINF: nombre="nacionales" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/nacionales.jpg" url="nacionales"
-#EXTINF: nombre="infantil" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/infantil.jpg" url="infantil"
+#EXTINF: nombre="infantiles" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/infantiles.jpg" url="infantiles"
 #EXTINF: nombre="mundo" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/mundo.jpg" url="mundo"
 #EXTINF: nombre="cultura" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/cultura.jpg" url="cultura"
 #EXTINF: nombre="entretenimiento" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/entretenimiento.jpg" url="entretenimiento"
