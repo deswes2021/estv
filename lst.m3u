@@ -1,7 +1,21 @@
 #EXTM3U
 
 #EXTOPT:
-#EXTOPT: NACIONALES
+#EXTOPT: MENUS
+#EXTOPT:
+
+#EXTINF: nombre="opciones" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/Nacionales.jpg" url="opciones" 
+#EXTINF: nombre="nacionales" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/nacionales.jpg" url="nacionales"
+#EXTINF: nombre="infantil" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/infantil.jpg" url="infantil"
+#EXTINF: nombre="mundo" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/mundo.jpg" url="mundo"
+#EXTINF: nombre="cultura" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/cultura.jpg" url="cultura"
+#EXTINF: nombre="entretenimiento" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/entretenimiento.jpg" url="entretenimiento"
+#EXTINF: nombre="deportes" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/deportes.jpg" url="deportes"
+#EXTINF: nombre="24x7" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/24x7.jpg" url="24x7"
+#EXTINF: nombre="musica" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/musica.jpg" url="musica"
+
+#EXTOPT:
+#EXTOPT: OPCIONES
 #EXTOPT:
 
 #EXTINF: nombre="actualizar" tipo="opciones" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/actualizar.jpg" url="actualizar" 
