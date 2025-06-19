@@ -20,7 +20,7 @@
 #EXTOPT:
 
 #EXTINF: nombre="actualizar" tipo="opciones" logo="https://raw.githubusercontent.com/deswes2021/estv/main/img/actualizar.jpg" url="actualizar" 
-#EXTINF: nombre="activar teleclub" tipo="opciones" logo="https://raw.githubusercontent.com/deswes2021/estv/main/img/activar.jpg" url="activar" 
+#EXTINF: nombre="activar teleclub" tipo="opciones" logo="https://raw.githubusercontent.com/deswes2021/estv/main/img/activar.jpg" url="https://tv.teleclub.xyz/activar" 
 #EXTINF: nombre="killcache" tipo="opciones" logo="https://raw.githubusercontent.com/deswes2021/estv/main/img/killcache.jpg" url="killcache" 
 
 #EXTOPT:
