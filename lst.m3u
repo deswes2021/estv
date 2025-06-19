@@ -1,14 +1,6 @@
 #EXTM3U
 
 #EXTOPT:
-#EXTOPT: OPCIONES
-#EXTOPT:
-    
-#EXTINF: nombre="Activar" tipo="Opciones" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/activar.jpg" url="https://tv.teleclub.xyz/activar" 
-#EXTINF: nombre="Actualizar" tipo="Opciones" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/actualizar.jpg" url="actualizar" 
-#EXTINF: nombre="Cambialista" tipo="Opciones" logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/cambialista.jpg" url="borrakche" 
-
-#EXTOPT:
 #EXTOPT: NACIONALES
 #EXTOPT:
 
